@@ -1,0 +1,43 @@
+body {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+}
+
+h1 {
+    color: orange;
+    font-style: italic;
+}
+
+p {
+    font-family: sans-serif;
+    font-style: normal;
+}
+p strong {
+    background-color: yellow;
+}
+
+h2 {
+    color: black;
+    font-family: cursive;
+    font-style: bold;
+}
+
+h3 {color: black;
+    font-family: cursive;
+    font-style: bold;
+}
+
+.writing {
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    color: black;
+}
+
+img {
+    width: 50%;
+    height: 40%;
+    float: center;
+    display: inline-block;
+}
